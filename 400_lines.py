@@ -7,7 +7,7 @@ print("I Love Kelly")
 print("Shamwari nzangu ndizvozvo,NO HOMO")
 print("Need to have millions when l reach 25")
 print("Need to keep working hard")
-print("Need to have a muscular build muna September")
+print("Need to have money muna September")
 
 #Creating Variables
 score = 0
